@@ -14,7 +14,7 @@ decisions.
 4. Career Growth and Job Stability
 5. Performance and Attrition
 
-https://www.kridha.net/wp-content/uploads/2023/11/HR-Employee-Attrition-Analysis-Dashboard-PowerPoint-Template.jpg
+<img src="https://www.slideteam.net/media/catalog/product/cache/1/thumbnail/980x551/9df78eab33525d08d6e5fb8d27136e95/h/r/hr_employee_attrition_analysis_dashboard_slide01.jpg" alt="HR Employee Attrition Analysis Dashboard" width="600">
 
 # Contributing
 
