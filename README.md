@@ -1,4 +1,5 @@
 # HR Employee Attrition Analysis
+By: Alex, Shir, Shani, Keren
 
 In this project, we explored a dataset that includes various attributes
 related to employee satisfaction, performance, demographics, and job characteristics.
@@ -25,6 +26,7 @@ Please make sure to install the following libraries:
 - matplotlib  
 - seaborn  
 - numpy
+
 
 
 
